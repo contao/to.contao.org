@@ -28,24 +28,8 @@ class Controller
     {
         try {
             $match = $this->urlMatcher->matchRequest($request);
-            $targets = $match['targets'];
-            $locales = array_keys($targets);
 
-            if (1 === \count($locales)) {
-                $url = reset($targets);
-            } else {
-                if ($lang = $request->query->get('lang')) {
-                    $desiredLanguage = $lang;
-                } else {
-                    $desiredLanguage = $request->getPreferredLanguage($locales);
-                }
-
-                if (isset($targets[$desiredLanguage])) {
-                    $url = $targets[$desiredLanguage];
-                } else {
-                    $url = reset($targets);
-                }
-            }
+            $url = $this->determineTargetUrl($request, $match['targets']);
 
             $response = new RedirectResponse($url, Response::HTTP_TEMPORARY_REDIRECT);
             $response->setPublic();
@@ -55,5 +39,28 @@ class Controller
         }
 
         return $response;
+    }
+
+    private function determineTargetUrl(Request $request, array $targets): string
+    {
+        $locales = array_keys($targets);
+
+        if (1 === \count($locales)) {
+            $url = reset($targets);
+        } else {
+            if ($lang = $request->query->get('lang')) {
+                $desiredLanguage = $lang;
+            } else {
+                $desiredLanguage = $request->getPreferredLanguage($locales);
+            }
+
+            if (isset($targets[$desiredLanguage])) {
+                $url = $targets[$desiredLanguage];
+            } else {
+                $url = reset($targets);
+            }
+        }
+
+        return $url;
     }
 }
