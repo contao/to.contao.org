@@ -32,7 +32,6 @@ best available option. Note that if there's no match, the first target is going 
 always be listed first (most likely `en`).
 This also works for extended language keys like `de-CH` in which case, `de` is going to be selected.
 
-If you want to force a certain language, you can use `https://to.contao.org/partner&lang=fr`.
+If you want to force a certain language, you can use `https://to.contao.org/partner?lang=fr`.
 
-
-
+All redirects are `307 Temporary Redirects` and cached for 24 hours.
