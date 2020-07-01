@@ -29,10 +29,7 @@ jobs:
               run:  vendor/bin/ecs check bin public src tests --config csconfig.yaml --no-progress-bar --ansi
 
             - name: Analyze the redirects.yaml
-              run: |
-                  python3 -m pip install --upgrade pip
-                  python3 -m pip install yamllint
-                  /home/runner/.local/bin/yamllint redirects.yaml
+              run: bin/yaml-lint redirects.yaml
 
     tests:
         name: Tests
