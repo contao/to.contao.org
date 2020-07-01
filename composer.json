@@ -1,0 +1,38 @@
+{
+    "name": "contao/to.contao.org",
+    "description": "Shortlink service for the Contao Open Source Content Management System universe",
+    "type": "project",
+    "require": {
+        "php": "^7.4",
+        "symfony/routing": "^5.1",
+        "symfony/console": "^5.1",
+        "symfony/yaml": "^5.1",
+        "symfony/http-foundation": "^5.1",
+        "symfony/filesystem": "^5.1"
+    },
+    "require-dev": {
+        "contao/easy-coding-standard": "^2.0",
+        "phpunit/phpunit": "^9.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Contao\\ToContaoOrg\\": "src",
+            "Contao\\ToContaoOrg\\Test\\": "tests"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yanick Witschi",
+            "email": "yanick.witschi@terminal42.ch"
+        }
+    ],
+    "scripts": {
+        "csfix": [
+            "vendor/bin/ecs check bin public src tests --config csconfig.yaml --fix --ansi"
+        ],
+        "tests": [
+            "vendor/bin/phpunit --colors=always"
+        ]
+    }
+}

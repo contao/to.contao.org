@@ -1,0 +1,13 @@
+#!/usr/bin/env php
+<?php
+
+use Contao\ToContaoOrg\DumpRouterCommand;
+use Symfony\Component\Console\Application;
+
+require __DIR__.'/../vendor/autoload.php';
+
+$application = new Application();
+$command = new DumpRouterCommand();
+$application->add($command);
+$application->setDefaultCommand($command->getName(), true);
+$application->run();
