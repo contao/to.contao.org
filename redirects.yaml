@@ -1,6 +1,33 @@
 '': https://github.com/contao/to.contao.org
+
 partner:
     en: https://contao.org/en/contao-partners.html
     de: https://contao.org/de/contao-partner.html
     es: https://contao.org/es/partner-contao.html
     fr: https://contao.org/fr/partenaires-contao.html
+
+# Used by the Contao Manager
+support:
+    en: https://contao.org/en/support.html
+    de: https://contao.org/de/support.html
+    es: https://contao.org/es/soporte.html
+    fr: https://contao.org/fr/support.html
+    
+# Used by the Contao Manager
+release-plan:
+    en: https://contao.org/en/release-plan.html
+    de: https://contao.org/de/release-plan.html
+    es: https://contao.org/es/plan-de-publicacion.html
+    fr: https://contao.org/fr/plan-de-publication.html
+    
+# Used by the Contao Manager
+download:
+    en: https://contao.org/en/download.html
+    de: https://contao.org/de/download.html
+    es: https://contao.org/es/download.html
+    fr: https://contao.org/fr/telechargements.html
+
+# Used by the Contao Manager
+manager-password:
+    en: https://github.com/contao/contao-manager/issues/14
+    de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
