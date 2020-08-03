@@ -36,3 +36,7 @@ manager-password:
 system-requirements:
     en: https://docs.contao.org/manual/en/installation/system-requirements/
     de: https://docs.contao.org/manual/de/installation/systemvoraussetzungen/
+
+faq:
+    en: https://docs.contao.org/manual/de/faq/
+    de: https://docs.contao.org/manual/en/faq/
