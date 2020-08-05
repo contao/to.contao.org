@@ -1,11 +1,5 @@
 '': https://github.com/contao/to.contao.org
 
-partner:
-    en: https://contao.org/en/contao-partners.html
-    de: https://contao.org/de/contao-partner.html
-    es: https://contao.org/es/partner-contao.html
-    fr: https://contao.org/fr/partenaires-contao.html
-
 # Used by the Contao Manager
 support:
     en: https://contao.org/en/support.html
@@ -33,6 +27,12 @@ manager-password:
     de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
 
 # Used by contao.org
+partner:
+    en: https://contao.org/en/contao-partners.html
+    de: https://contao.org/de/contao-partner.html
+    es: https://contao.org/es/partner-contao.html
+    fr: https://contao.org/fr/partenaires-contao.html
+
 system-requirements:
     en: https://docs.contao.org/manual/en/installation/system-requirements/
     de: https://docs.contao.org/manual/de/installation/systemvoraussetzungen/
@@ -40,3 +40,7 @@ system-requirements:
 faq:
     en: https://docs.contao.org/manual/de/faq/
     de: https://docs.contao.org/manual/en/faq/
+    
+mumble:
+    en: https://docs.contao.org/manual/en/guides/mumble/
+    de: https://docs.contao.org/manual/de/anleitungen/mumble/
