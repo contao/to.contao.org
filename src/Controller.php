@@ -43,24 +43,16 @@ class Controller
 
     private function determineTargetUrl(Request $request, array $targets): string
     {
-        $locales = array_keys($targets);
-
-        if (1 === \count($locales)) {
-            $url = reset($targets);
-        } else {
-            if ($lang = $request->query->get('lang')) {
-                $desiredLanguage = $lang;
-            } else {
-                $desiredLanguage = $request->getPreferredLanguage($locales);
-            }
-
-            if (isset($targets[$desiredLanguage])) {
-                $url = $targets[$desiredLanguage];
-            } else {
-                $url = reset($targets);
-            }
+        if (1 === \count($targets)) {
+            return reset($targets);
         }
 
-        return $url;
+        if (($lang = $request->query->get('lang')) && isset($targets[$lang])) {
+            return $targets[$lang];
+        }
+
+        $desiredLanguage = $request->getPreferredLanguage(array_keys($targets));
+
+        return $targets[$desiredLanguage] ?? reset($targets);
     }
 }

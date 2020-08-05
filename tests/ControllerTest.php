@@ -138,5 +138,16 @@ class ControllerTest extends TestCase
             ],
             'https://contao.org/en/',
         ];
+
+        yield 'Test correct match if Accept-Language contains "de" and unknown was forced' => [
+            Request::create('/contao?lang=en', 'GET', [], [], [], ['HTTP_ACCEPT_LANGUAGE' => 'de;q=0.7,en;q=0.3']),
+            [
+                'targets' => [
+                    'fr' => 'https://contao.org/en/',
+                    'de' => 'https://contao.org/de/',
+                ],
+            ],
+            'https://contao.org/de/',
+        ];
     }
 }
