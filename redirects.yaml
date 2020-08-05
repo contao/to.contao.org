@@ -12,14 +12,14 @@ support:
     de: https://contao.org/de/support.html
     es: https://contao.org/es/soporte.html
     fr: https://contao.org/fr/support.html
-    
+
 # Used by the Contao Manager
 release-plan:
     en: https://contao.org/en/release-plan.html
     de: https://contao.org/de/release-plan.html
     es: https://contao.org/es/plan-de-publicacion.html
     fr: https://contao.org/fr/plan-de-publication.html
-    
+
 # Used by the Contao Manager
 download:
     en: https://contao.org/en/download.html
@@ -29,7 +29,7 @@ download:
 
 # Used by the Contao Manager
 manager-password:
-    en: https://github.com/contao/contao-manager/issues/14
+    en: https://docs.contao.org/manual/en/installation/contao-manager/#did-you-forget-your-contao-manager-login-information
     de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
 
 # Used by contao.org
