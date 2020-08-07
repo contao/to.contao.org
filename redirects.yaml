@@ -44,3 +44,6 @@ faq:
 mumble:
     en: https://docs.contao.org/manual/en/guides/mumble/
     de: https://docs.contao.org/manual/de/anleitungen/mumble/
+    
+# Used for Contao TV
+live-show: https://youtu.be/sWUbUIlenGk
