@@ -45,6 +45,7 @@ mumble:
     en: https://docs.contao.org/manual/en/guides/mumble/
     de: https://docs.contao.org/manual/de/anleitungen/mumble/
 
+# Changelogs
 changelog/2.9: https://github.com/contao/core/blob/2.9.5/CHANGELOG.txt
 changelog/2.10: https://github.com/contao/core/blob/2.10.4/CHANGELOG.txt
 changelog/2.11: https://github.com/contao/core/blob/2.11/CHANGELOG.md
