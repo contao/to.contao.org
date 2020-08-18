@@ -85,3 +85,5 @@ changelog/4.9:
     en: https://github.com/contao/contao/blob/4.9/CHANGELOG.md
 changelog/4.10:
     en: https://github.com/contao/contao/blob/4.10/CHANGELOG.md
+changelog:
+    en: https://github.com/contao/contao/blob/4.9/CHANGELOG.md
