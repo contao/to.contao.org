@@ -45,6 +45,8 @@ mumble:
     en: https://docs.contao.org/manual/en/guides/mumble/
     de: https://docs.contao.org/manual/de/anleitungen/mumble/
 
+slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
+
 # Changelogs
 changelog/2.9: https://github.com/contao/core/blob/2.9.5/CHANGELOG.txt
 changelog/2.10: https://github.com/contao/core/blob/2.10.4/CHANGELOG.txt
