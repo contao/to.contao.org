@@ -29,6 +29,10 @@ manager-password:
 webroot:
     en: https://docs.contao.org/manual/en/installation/install-contao/#hosting-configuration
     de: https://docs.contao.org/manual/de/installation/contao-installieren/#hosting-konfiguration
+    
+core-extensions:
+    en: https://docs.contao.org/manual/en/core-extensions/
+    de: https://docs.contao.org/manual/de/core-erweiterungen/
 
 # Used by contao.org
 partner:
