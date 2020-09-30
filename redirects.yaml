@@ -53,6 +53,10 @@ mumble:
     en: https://docs.contao.org/manual/en/guides/mumble/
     de: https://docs.contao.org/manual/de/anleitungen/mumble/
 
+security:
+    en: https://contao.org/en/security-advisories.html
+    de: https://contao.org/de/sicherheitshinweise.html
+
 slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
 
 # Changelogs
