@@ -59,6 +59,13 @@ security:
 
 slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
 
+# Contao TV
+tv/show/1: https://contao-academy.de/contao-show
+tv/show/2: https://contao-academy.de/contao-show
+tv/show/3: https://contao-academy.de/contao-show
+tv/show/4: https://contao-academy.de/contao-show
+tv/show/5: https://youtu.be/OAdbKgp8Hq0
+
 # Changelogs
 changelog/2.9: https://github.com/contao/core/blob/2.9.5/CHANGELOG.txt
 changelog/2.10: https://github.com/contao/core/blob/2.10.4/CHANGELOG.txt
