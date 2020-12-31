@@ -59,6 +59,8 @@ security:
 
 slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
 
+association: https://contao.org/de/contao-association.html
+
 # Contao TV
 tv/show/1: https://youtu.be/jiL88pHpNvg
 tv/show/2: https://youtu.be/jiL88pHpNvg
