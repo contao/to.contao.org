@@ -63,7 +63,10 @@ association: https://contao.org/de/contao-association.html
 supporter: https://contao.org/de/supporter.html
 
 # Contao Youtube Channel
-youtube: https://www.youtube.com/channel/UCth-gY8Kh_cj6va1BUjoqRw
+youtube: https://www.youtube.com/c/ContaoOpenSourceCMS-official/featured
+
+# Contao Youtube Channel - Playlist Contao-TV
+tv: https://www.youtube.com/watch?v=--1lNxu4lsU&list=PLJlEgN85jW8EjlruYLu7QvydAez8swbLg
 
 # Contao TV
 tv/show/1: https://youtu.be/jiL88pHpNvg
