@@ -63,6 +63,8 @@ association: https://contao.org/de/contao-association.html
 supporter: https://contao.org/de/supporter.html
 
 # Contao TV
+tv: https://www.youtube.com/playlist?list=PLJlEgN85jW8EjlruYLu7QvydAez8swbLg
+
 tv/show/1: https://youtu.be/jiL88pHpNvg
 tv/show/2: https://youtu.be/jiL88pHpNvg
 tv/show/3: https://youtu.be/jiL88pHpNvg
