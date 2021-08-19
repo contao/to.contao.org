@@ -1,6 +1,0 @@
-imports:
-    - { resource: vendor/contao/easy-coding-standard/config/default.yaml }
-
-services:
-    PhpCsFixer\Fixer\Comment\HeaderCommentFixer:
-        header: "(c) Yanick Witschi\n\n@license MIT"

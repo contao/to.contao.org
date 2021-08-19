@@ -11,7 +11,7 @@
         "symfony/filesystem": "^5.1"
     },
     "require-dev": {
-        "contao/easy-coding-standard": "^2.0",
+        "contao/easy-coding-standard": "^3.0",
         "phpunit/phpunit": "^9.2"
     },
     "autoload": {
@@ -29,7 +29,7 @@
     ],
     "scripts": {
         "csfix": [
-            "vendor/bin/ecs check bin public src tests --config csconfig.yaml --fix --ansi"
+            "vendor/bin/ecs check bin public src tests --config ecs.php --fix --ansi"
         ],
         "tests": [
             "vendor/bin/phpunit --colors=always"
