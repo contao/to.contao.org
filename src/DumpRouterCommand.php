@@ -37,7 +37,7 @@ class DumpRouterCommand extends Command
         $routesData = Yaml::parseFile(__DIR__.'/../redirects.yaml');
 
         foreach ($routesData as $shortLink => $targets) {
-            $route = new Route('/'.$shortLink, ['targets' => (array) $targets]);
+            $route = new Route('/'.$shortLink, ['targets' => (array) $targets], [], ['utf8' => true]);
 
             $routes->add('generated_'.++$i, $route);
         }
