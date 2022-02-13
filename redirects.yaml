@@ -26,7 +26,6 @@ manager-password:
     en: https://docs.contao.org/manual/en/installation/contao-manager/#did-you-forget-your-contao-manager-login-information
     de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
 
-# Used by the Contao back end
 manual:
     en: https://docs.contao.org/manual/en/
     de: https://docs.contao.org/manual/de/
