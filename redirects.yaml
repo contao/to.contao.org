@@ -26,6 +26,10 @@ manager-password:
     en: https://docs.contao.org/manual/en/installation/contao-manager/#did-you-forget-your-contao-manager-login-information
     de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
 
+manual:
+    en: https://docs.contao.org/manual/en/
+    de: https://docs.contao.org/manual/de/
+
 webroot:
     en: https://docs.contao.org/manual/en/installation/install-contao/#hosting-configuration
     de: https://docs.contao.org/manual/de/installation/contao-installieren/#hosting-konfiguration
