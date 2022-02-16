@@ -31,6 +31,10 @@ shortcuts:
     en: https://docs.contao.org/manual/en/administration-area/back-end-keyboard-shortcuts/
     de: https://docs.contao.org/manual/de/administrationsbereich/backend-tastaturkuerzel/
 
+manual:
+    en: https://docs.contao.org/manual/en/
+    de: https://docs.contao.org/manual/de/
+
 webroot:
     en: https://docs.contao.org/manual/en/installation/install-contao/#hosting-configuration
     de: https://docs.contao.org/manual/de/installation/contao-installieren/#hosting-konfiguration
@@ -66,8 +70,8 @@ slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWM
 
 association: https://contao.org/de/contao-association.html
 supporter: https://contao.org/de/supporter.html
-donate: https://ko-fi.com/contaocms # this should lead to a donation page on contao.org
-€: https://ko-fi.com/contaocms # this should lead to a donation page on contao.org
+donate: https://contao.org/de/finanziell-unterstuetzen.html
+€: https://contao.org/de/finanziell-unterstuetzen.html
 
 # Contao TV
 tv: https://www.youtube.com/playlist?list=PLJlEgN85jW8EjlruYLu7QvydAez8swbLg
