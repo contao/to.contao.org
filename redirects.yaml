@@ -93,7 +93,6 @@ tv/show/13: https://youtu.be/NPLvHosF_Dg
 tv/show/14: https://youtu.be/BGGjFE_N2Yg
 tv/show/15: https://youtu.be/ColU1MSzCEI
 tv/show/16: https://youtu.be/f_BfB9Iynco
-tv/show/17: https://youtube.com/shorts/gQ99wO7_Znc
 
 tv/meet/yanick-witschi: https://youtu.be/LEFYPKQNJcg
 tv/meet/fritz-m-gschwantner: https://youtu.be/ggGEK9bqjfY
@@ -145,6 +144,8 @@ tv/shorts/9: https://youtube.com/shorts/XbzNQIz8TR0
 tv/shorts/10: https://youtube.com/shorts/hq840uT3isE
 tv/shorts/11: https://youtube.com/shorts/38I9h8ViVxg
 tv/shorts/12: https://youtube.com/shorts/6UWW5KG_Cow
+tv/shorts/13: https://youtube.com/shorts/gQ99wO7_Znc
+
 
 # Changelogs
 changelog/2.6: https://github.com/contao/core/blob/2.6.8/CHANGELOG.txt
