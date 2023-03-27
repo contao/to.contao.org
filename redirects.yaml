@@ -68,10 +68,14 @@ security:
 
 slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
 
-association: https://contao.org/de/contao-association.html
 supporter: https://contao.org/de/supporter.html
 donate: https://contao.org/de/finanziell-unterstuetzen.html
 €: https://contao.org/de/finanziell-unterstuetzen.html
+
+# Contao Association
+association: https://contao.org/de/contao-association.html
+
+association/gv: https://meet.cms.garden/joa-lh0-qst-q9r
 
 # Contao TV
 tv: https://www.youtube.com/playlist?list=PLJlEgN85jW8EjlruYLu7QvydAez8swbLg
