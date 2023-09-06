@@ -2,24 +2,24 @@
 
 # Used by the Contao Manager
 support:
-    en: https://contao.org/en/support.html
-    de: https://contao.org/de/support.html
-    es: https://contao.org/es/soporte.html
-    fr: https://contao.org/fr/support.html
+    en: https://contao.org/en/support
+    de: https://contao.org/de/support
+    es: https://contao.org/es/soporte
+    fr: https://contao.org/fr/support
 
 # Used by the Contao Manager
 release-plan:
-    en: https://contao.org/en/release-plan.html
-    de: https://contao.org/de/release-plan.html
-    es: https://contao.org/es/plan-de-publicacion.html
-    fr: https://contao.org/fr/plan-de-publication.html
+    en: https://contao.org/en/release-plan
+    de: https://contao.org/de/release-plan
+    es: https://contao.org/es/plan-de-publicacion
+    fr: https://contao.org/fr/plan-de-publication
 
 # Used by the Contao Manager
 download:
-    en: https://contao.org/en/download.html
-    de: https://contao.org/de/download.html
-    es: https://contao.org/es/download.html
-    fr: https://contao.org/fr/telechargements.html
+    en: https://contao.org/en/download
+    de: https://contao.org/de/download
+    es: https://contao.org/es/download
+    fr: https://contao.org/fr/telechargements
 
 # Used by the Contao Manager
 manager-password:
@@ -45,10 +45,10 @@ core-extensions:
 
 # Used by contao.org
 partner:
-    en: https://contao.org/en/contao-partners.html
-    de: https://contao.org/de/contao-partner.html
-    es: https://contao.org/es/partner-contao.html
-    fr: https://contao.org/fr/partenaires-contao.html
+    en: https://contao.org/en/partners
+    de: https://contao.org/de/partner
+    es: https://contao.org/es/socios
+    fr: https://contao.org/fr/partenaires
 
 system-requirements:
     en: https://docs.contao.org/manual/en/installation/system-requirements/
@@ -63,8 +63,8 @@ mumble:
     de: https://docs.contao.org/manual/de/anleitungen/mumble/
 
 security:
-    en: https://contao.org/en/security-advisories.html
-    de: https://contao.org/de/sicherheitshinweise.html
+    en: https://contao.org/en/security-advisories
+    de: https://contao.org/de/sicherheitshinweise
 
 quickstart:
     en: https://docs.contao.org/manual/en/installation/quickstart/
@@ -72,12 +72,12 @@ quickstart:
 
 slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
 
-supporter: https://contao.org/de/supporter.html
-donate: https://contao.org/de/finanziell-unterstuetzen.html
-€: https://contao.org/de/finanziell-unterstuetzen.html
+supporter: https://contao.org/de/supporter
+donate: https://contao.org/de/finanziell-unterstuetzen
+€: https://contao.org/de/finanziell-unterstuetzen
 
 # Contao Association
-association: https://contao.org/de/contao-association.html
+association: https://contao.org/de/contao-association
 
 association/gv: https://meet.cms.garden/joa-lh0-qst-q9r
 
@@ -193,28 +193,28 @@ changelog/5.2: https://github.com/contao/contao/blob/5.2/CHANGELOG.md
 changelog: https://github.com/contao/contao/blob/5.2/CHANGELOG.md
 
 # Contao Conference
-conference/2008: https://contao.org/de/veranstaltungen/typolight-usertreffen-2008.html
-conference/2009: https://contao.org/de/veranstaltungen/typolight-usertreffen-2009.html
-conference/2010: https://contao.org/de/veranstaltungen/typolight-usertreffen-2010.html
-conference/2011: https://contao.org/de/veranstaltungen/contao-konferenz-2011.html
-conference/2012: https://contao.org/de/veranstaltungen/contao-konferenz-2012.html
-conference/2013: https://contao.org/de/veranstaltungen/contao-konferenz-2013.html
-conference/2014: https://contao.org/de/veranstaltungen/contao-konferenz-2014.html
-conference/2015: https://contao.org/de/veranstaltungen/contao-konferenz-2015.html
-conference/2016: https://contao.org/de/veranstaltungen/contao-konferenz-2016.html
-conference/2017: https://contao.org/de/veranstaltungen/contao-konferenz-2017.html
-conference/2018: https://contao.org/de/veranstaltungen/contao-konferenz-2018.html
-conference/2019: https://contao.org/de/veranstaltungen/contao-konferenz-2019.html
-conference/2023: https://contao.org/de/veranstaltungen/contao-konferenz-2023.html
+conference/2008: https://contao.org/de/veranstaltungen/typolight-usertreffen-2008
+conference/2009: https://contao.org/de/veranstaltungen/typolight-usertreffen-2009
+conference/2010: https://contao.org/de/veranstaltungen/typolight-usertreffen-2010
+conference/2011: https://contao.org/de/veranstaltungen/contao-konferenz-2011
+conference/2012: https://contao.org/de/veranstaltungen/contao-konferenz-2012
+conference/2013: https://contao.org/de/veranstaltungen/contao-konferenz-2013
+conference/2014: https://contao.org/de/veranstaltungen/contao-konferenz-2014
+conference/2015: https://contao.org/de/veranstaltungen/contao-konferenz-2015
+conference/2016: https://contao.org/de/veranstaltungen/contao-konferenz-2016
+conference/2017: https://contao.org/de/veranstaltungen/contao-konferenz-2017
+conference/2018: https://contao.org/de/veranstaltungen/contao-konferenz-2018
+conference/2019: https://contao.org/de/veranstaltungen/contao-konferenz-2019
+conference/2023: https://contao.org/de/veranstaltungen/contao-konferenz-2023
 conference: https://www.contao-konferenz.de/
 
 # Contao Camp
-camp/2011: https://contao.org/de/veranstaltungen/contao-camp-2011-de.html
-camp/2012: https://contao.org/de/veranstaltungen/contao-camp-2012-de.html
-camp/2013: https://contao.org/de/veranstaltungen/contao-camp-2013-de.html
-camp/2014: https://contao.org/de/veranstaltungen/contao-camp-2014-de.html
-camp/2016: https://contao.org/de/veranstaltungen/contao-camp-2016-de.html
-camp/2017: https://contao.org/de/veranstaltungen/contao-camp-2017.html
+camp/2011: https://contao.org/de/veranstaltungen/contao-camp-2011-de
+camp/2012: https://contao.org/de/veranstaltungen/contao-camp-2012-de
+camp/2013: https://contao.org/de/veranstaltungen/contao-camp-2013-de
+camp/2014: https://contao.org/de/veranstaltungen/contao-camp-2014-de
+camp/2016: https://contao.org/de/veranstaltungen/contao-camp-2016-de
+camp/2017: https://contao.org/de/veranstaltungen/contao-camp-2017
 camp/2018: https://2018.camp.contao.org/
 camp/2019: https://2019.camp.contao.org/
 camp/2022: https://2022.camp.contao.org/
@@ -222,76 +222,76 @@ camp/2023: https://2023.camp.contao.org/
 camp: https://2023.camp.contao.org/
 
 # Contao Core Developers Meeting
-developers-meeting/1-2018: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2018.html
-developers-meeting/2-2018: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2018.html
+developers-meeting/1-2018: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2018
+developers-meeting/2-2018: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2018
 developers-meeting/1-2019:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2019.html
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2019.html
+    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2019
+    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2019
 developers-meeting/2-2019:
-    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2019.html
-    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2019.html
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2019
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2019
 developers-meeting/1-2020:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2020.html
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2020.html
+    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2020
+    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2020
 developers-meeting/2-2020:
-    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2020.html
-    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2020.html
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2020
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2020
 developers-meeting/1-2021:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2021.html
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2021.html
+    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2021
+    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2021
 developers-meeting/1-2022:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2022.html
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2022.html
+    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2022
+    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2022
 developers-meeting/2-2022:
-    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2022.html
-    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2022.html
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2022
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2022
 developers-meeting/1-2023:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023.html
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023.html
+    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023
+    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023
 developers-meeting:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023.html
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023.html
+    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023
+    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023
 
 # Contao Two Month Review
-review/1-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2016.html
-review/2-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2016.html
-review/3-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2016.html
-review/4-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2016.html
-review/1-2017: https://contao.org/de/news/contao-zwei-monatsruckblick-januar-und-februar-2017.html
-review/2-2017: https://contao.org/de/news/contao-zwei-monatsruckblick-marz-und-april-2017.html
-review/3-2017: https://contao.org/de/news/contao-zwei-monatsruckblick-mai-und-juni-2017.html
-review/4-2017: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2017.html
-review/5-2017: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2017.html
-review/6-2017: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2017.html
-review/1-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2018.html
-review/2-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2018.html
-review/3-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2018.html
-review/4-2018: https://contao.org/de/news/contao-vier-monats-rueckblick-juli-bis-oktober-2018.html
-review/5-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2018.html
-review/1-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2019.html
-review/2-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2019.html
-review/3-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2019.html
-review/4-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2019.html
-review/5-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2019.html
-review/6-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2019.html
-review/1-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2020.html
-review/2-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2020.html
-review/3-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2020.html
-review/4-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2020.html
-review/5-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2020.html
-review/6-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2020.html
-review/1-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2021.html
-review/2-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2021.html
-review/3-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2021.html
-review/4-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2021.html
-review/5-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2021.html
-review/6-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2021.html
-review/1-2022: https://contao.org/de/news/contao-vier-monatsrueckblick-januar-bis-april-2022.html
-review/2-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2022.html
-review/3-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2022.html
-review/4-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2022.html
-review/5-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2022.html
-review/1-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2023.html
+review/1-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2016
+review/2-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2016
+review/3-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2016
+review/4-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2016
+review/1-2017: https://contao.org/de/news/contao-zwei-monatsruckblick-januar-und-februar-2017
+review/2-2017: https://contao.org/de/news/contao-zwei-monatsruckblick-marz-und-april-2017
+review/3-2017: https://contao.org/de/news/contao-zwei-monatsruckblick-mai-und-juni-2017
+review/4-2017: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2017
+review/5-2017: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2017
+review/6-2017: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2017
+review/1-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2018
+review/2-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2018
+review/3-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2018
+review/4-2018: https://contao.org/de/news/contao-vier-monats-rueckblick-juli-bis-oktober-2018
+review/5-2018: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2018
+review/1-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2019
+review/2-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2019
+review/3-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2019
+review/4-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2019
+review/5-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2019
+review/6-2019: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2019
+review/1-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2020
+review/2-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2020
+review/3-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2020
+review/4-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2020
+review/5-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2020
+review/6-2020: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2020
+review/1-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2021
+review/2-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2021
+review/3-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2021
+review/4-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2021
+review/5-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2021
+review/6-2021: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2021
+review/1-2022: https://contao.org/de/news/contao-vier-monatsrueckblick-januar-bis-april-2022
+review/2-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2022
+review/3-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2022
+review/4-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-september-und-oktober-2022
+review/5-2022: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2022
+review/1-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-und-februar-2023
 review/2-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2023
 review/3-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2023
 review: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2023
