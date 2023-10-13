@@ -72,6 +72,7 @@ quickstart:
 
 slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
 
+# Used in authors list of composer.json
 contributors: https://github.com/contao/contao/blob/5.x/CONTRIBUTORS.md
 demo-contributors: https://github.com/contao/official-demo/graphs/contributors
 
