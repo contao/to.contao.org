@@ -49,6 +49,12 @@ team:
     es: https://contao.org/es/equipo
     fr: https://contao.org/fr/equipe
 
+legal-notice:
+    en: https://contao.org/en/legal-notice
+    de: https://contao.org/de/impressum
+    es: https://contao.org/es/aviso-legal
+    fr: https://contao.org/fr/mentions-legales
+
 # Used by contao.org
 partner:
     en: https://contao.org/en/partners
