@@ -43,6 +43,12 @@ core-extensions:
     en: https://docs.contao.org/manual/en/core-extensions/
     de: https://docs.contao.org/manual/de/core-erweiterungen/
 
+team:
+    en: https://contao.org/en/team
+    de: https://contao.org/de/team
+    es: https://contao.org/es/equipo
+    fr: https://contao.org/fr/equipe
+
 legal-notice:
     en: https://contao.org/en/legal-notice
     de: https://contao.org/de/impressum
