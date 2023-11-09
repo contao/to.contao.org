@@ -268,6 +268,11 @@ developers-meeting:
     en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023
     de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023
 
+# Docs
+docs/crawler:
+    en: https://docs.contao.org/manual/en/system/maintenance/
+    de: https://docs.contao.org/manual/de/system/systemwartung/
+
 # Contao Two Month Review
 review/1-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2016
 review/2-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2016
