@@ -61,7 +61,6 @@ donate: https://contao.org/de/finanziell-unterstuetzen
 
 # Contao Association
 association: https://contao.org/de/contao-association
-
 association/gv: https://meet.cms.garden/joa-lh0-qst-q9r
 
 # Contao TV
@@ -267,6 +266,10 @@ docs/faq:
 docs/quickstart:
     en: https://docs.contao.org/manual/en/installation/quickstart/
     de: https://docs.contao.org/manual/de/installation/quickstart/
+
+docs/contao-manager:
+    en: https://docs.contao.org/manual/en/installation/contao-manager/
+    de: https://docs.contao.org/manual/de/installation/contao-manager/
 
 # Contao Two Month Review
 review/1-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2016
