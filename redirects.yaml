@@ -253,8 +253,8 @@ docs/core-extensions:
     de: https://docs.contao.org/manual/de/core-erweiterungen/
 
 docs/crawler:
-    en: https://docs.contao.org/manual/en/system/maintenance/
-    de: https://docs.contao.org/manual/de/system/systemwartung/
+    en: https://docs.contao.org/manual/en/system/maintenance/#crawler
+    de: https://docs.contao.org/manual/de/system/systemwartung/#crawler
 
 docs/system-requirements:
     en: https://docs.contao.org/manual/en/installation/system-requirements/
