@@ -264,10 +264,6 @@ docs/faq:
     en: https://docs.contao.org/manual/de/faq/
     de: https://docs.contao.org/manual/en/faq/
 
-docs/mumble:
-    en: https://docs.contao.org/manual/en/guides/mumble/
-    de: https://docs.contao.org/manual/de/anleitungen/mumble/
-
 docs/quickstart:
     en: https://docs.contao.org/manual/en/installation/quickstart/
     de: https://docs.contao.org/manual/de/installation/quickstart/
@@ -326,5 +322,7 @@ webroot: https://to.contao.org/docs/webroot
 core-extensions: https://to.contao.org/docs/core-extensions
 system-requirements: https://to.contao.org/docs/system-requirements
 faq: https://to.contao.org/docs/faq
-mumble: https://to.contao.org/docs/mumble
+mumble:
+    en: https://docs.contao.org/manual/en/guides/mumble/
+    de: https://docs.contao.org/manual/de/anleitungen/mumble/
 quickstart: https://to.contao.org/docs/quickstart
