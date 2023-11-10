@@ -22,26 +22,9 @@ download:
     fr: https://contao.org/fr/telechargements
 
 # Used by the Contao Manager
-manager-password:
-    en: https://docs.contao.org/manual/en/installation/contao-manager/#did-you-forget-your-contao-manager-login-information
-    de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
-
-# Used by the Contao back end
-shortcuts:
-    en: https://docs.contao.org/manual/en/administration-area/back-end-keyboard-shortcuts/
-    de: https://docs.contao.org/manual/de/administrationsbereich/backend-tastaturkuerzel/
-
 manual:
     en: https://docs.contao.org/manual/en/
     de: https://docs.contao.org/manual/de/
-
-webroot:
-    en: https://docs.contao.org/manual/en/installation/install-contao/#hosting-configuration
-    de: https://docs.contao.org/manual/de/installation/contao-installieren/#hosting-konfiguration
-    
-core-extensions:
-    en: https://docs.contao.org/manual/en/core-extensions/
-    de: https://docs.contao.org/manual/de/core-erweiterungen/
 
 team:
     en: https://contao.org/en/team
@@ -62,25 +45,9 @@ partner:
     es: https://contao.org/es/socios
     fr: https://contao.org/fr/partenaires
 
-system-requirements:
-    en: https://docs.contao.org/manual/en/installation/system-requirements/
-    de: https://docs.contao.org/manual/de/installation/systemvoraussetzungen/
-
-faq:
-    en: https://docs.contao.org/manual/de/faq/
-    de: https://docs.contao.org/manual/en/faq/
-    
-mumble:
-    en: https://docs.contao.org/manual/en/guides/mumble/
-    de: https://docs.contao.org/manual/de/anleitungen/mumble/
-
 security:
     en: https://contao.org/en/security-advisories
     de: https://contao.org/de/sicherheitshinweise
-
-quickstart:
-    en: https://docs.contao.org/manual/en/installation/quickstart/
-    de: https://docs.contao.org/manual/de/installation/quickstart/
 
 slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWMzODVkZjM5NjdlNDRiZjk2OTI3OWVkMmQ1YjA0MTQ3YTljMjFjODkwYTllN2NkMDcxMThiNzMzZjZlOGU
 
@@ -268,6 +235,39 @@ developers-meeting:
     en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023
     de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023
 
+# Docs
+docs/manager-password:
+    en: https://docs.contao.org/manual/en/installation/contao-manager/#did-you-forget-your-contao-manager-login-information
+    de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
+
+docs/shortcuts:
+    en: https://docs.contao.org/manual/en/administration-area/back-end-keyboard-shortcuts/
+    de: https://docs.contao.org/manual/de/administrationsbereich/backend-tastaturkuerzel/
+
+docs/webroot:
+    en: https://docs.contao.org/manual/en/installation/install-contao/#hosting-configuration
+    de: https://docs.contao.org/manual/de/installation/contao-installieren/#hosting-konfiguration
+
+docs/core-extensions:
+    en: https://docs.contao.org/manual/en/core-extensions/
+    de: https://docs.contao.org/manual/de/core-erweiterungen/
+
+docs/crawler:
+    en: https://docs.contao.org/manual/en/system/maintenance/#crawler
+    de: https://docs.contao.org/manual/de/system/systemwartung/#crawler
+
+docs/system-requirements:
+    en: https://docs.contao.org/manual/en/installation/system-requirements/
+    de: https://docs.contao.org/manual/de/installation/systemvoraussetzungen/
+
+docs/faq:
+    en: https://docs.contao.org/manual/de/faq/
+    de: https://docs.contao.org/manual/en/faq/
+
+docs/quickstart:
+    en: https://docs.contao.org/manual/en/installation/quickstart/
+    de: https://docs.contao.org/manual/de/installation/quickstart/
+
 # Contao Two Month Review
 review/1-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2016
 review/2-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2016
@@ -311,3 +311,18 @@ review/1-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-januar-un
 review/2-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-maerz-und-april-2023
 review/3-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2023
 review: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2023
+
+
+# Legacy - to be deleted when enough time has passed
+
+## Archived on November 10, 2023
+manager-password: https://to.contao.org/docs/manager-password
+shortcuts: https://to.contao.org/docs/shortcuts
+webroot: https://to.contao.org/docs/webroot
+core-extensions: https://to.contao.org/docs/core-extensions
+system-requirements: https://to.contao.org/docs/system-requirements
+faq: https://to.contao.org/docs/faq
+mumble:
+    en: https://docs.contao.org/manual/en/guides/mumble/
+    de: https://docs.contao.org/manual/de/anleitungen/mumble/
+quickstart: https://to.contao.org/docs/quickstart
