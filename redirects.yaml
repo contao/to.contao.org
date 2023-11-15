@@ -272,6 +272,14 @@ docs/contao-manager:
     en: https://docs.contao.org/manual/en/installation/contao-manager/
     de: https://docs.contao.org/manual/de/installation/contao-manager/
 
+docs/insert-tags:
+    en: https://docs.contao.org/manual/en/article-management/insert-tags/
+    de: https://docs.contao.org/manual/de/artikelverwaltung/insert-tags/
+
+docs/markdown:
+    en: https://docs.contao.org/manual/en/article-management/content-elements/text-elements/#markdown
+    de: https://docs.contao.org/manual/de/artikelverwaltung/inhaltselemente/text-elemente/#markdown
+
 # Contao Two Month Review
 review/1-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2016
 review/2-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2016
