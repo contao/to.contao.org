@@ -232,9 +232,12 @@ developers-meeting/2-2022:
 developers-meeting/1-2023:
     en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023
     de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023
+developers-meeting/2-2023:
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2023
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2023
 developers-meeting:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2023
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2023
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2023
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2023
 
 # Docs
 docs/manager-password:
