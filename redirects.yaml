@@ -241,6 +241,9 @@ developers-meeting:
     en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2023
     de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2023
 
+# Other Events
+release-party: https://contao.org/de/news/save-the-date-contao-5-3-community-event-am-22-2-2024
+
 # Docs
 docs/manager-password:
     en: https://docs.contao.org/manual/en/installation/contao-manager/#did-you-forget-your-contao-manager-login-information
