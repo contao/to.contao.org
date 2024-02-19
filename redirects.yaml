@@ -55,9 +55,17 @@ slack: https://join.slack.com/t/contao/shared_invite/enQtNjUzMjY4MDU0ODM3LWVjYWM
 contributors: https://github.com/contao/contao/graphs/contributors
 demo-contributors: https://github.com/contao/official-demo/graphs/contributors
 
-supporter: https://contao.org/de/supporter
-donate: https://contao.org/de/finanziell-unterstuetzen
-€: https://contao.org/de/finanziell-unterstuetzen
+supporter:
+    en: https://contao.org/en/supporter
+    de: https://contao.org/de/supporter
+
+donate:
+    en: https://contao.org/en/financial-support
+    de: https://contao.org/de/finanziell-unterstuetzen
+
+€:
+    en: https://contao.org/en/financial-support
+    de: https://contao.org/de/finanziell-unterstuetzen
 
 # Contao Association
 association: https://contao.org/de/contao-association
