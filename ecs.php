@@ -1,17 +1,20 @@
 <?php
 
+/*
+ * (c) Yanick Witschi
+ *
+ * @license MIT
+ */
+
+use Contao\EasyCodingStandard\Set\SetList;
 use PhpCsFixer\Fixer\Comment\HeaderCommentFixer;
-use Symfony\Component\DependencyInjection\Loader\Configurator\ContainerConfigurator;
+use Symplify\EasyCodingStandard\Config\ECSConfig;
+use Symplify\EasyCodingStandard\ValueObject\Option;
 
-return static function (ContainerConfigurator $containerConfigurator): void {
-    $containerConfigurator->import(__DIR__.'/vendor/contao/easy-coding-standard/config/default.php');
-
-    $services = $containerConfigurator->services();
-
-    $services
-        ->set(HeaderCommentFixer::class)
-        ->call('configure', [[
-            'header' => "(c) Yanick Witschi\n\n@license MIT",
-        ]])
-    ;
-};
+return ECSConfig::configure()
+    ->withSets([SetList::CONTAO])
+    ->withRootFiles()
+    ->withParallel()
+    ->withSpacing(Option::INDENTATION_SPACES, "\n")
+    ->withConfiguredRule(HeaderCommentFixer::class, ['header' => "(c) Yanick Witschi\n\n@license MIT"])
+;

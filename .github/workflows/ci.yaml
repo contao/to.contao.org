@@ -10,48 +10,48 @@ on:
 
 jobs:
     cs:
-        name: Coding Style
+        name: Coding style
         runs-on: ubuntu-latest
         steps:
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
               with:
-                  php-version: 7.4
+                  php-version: 8.1
                   coverage: none
 
             - name: Checkout
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Install the dependencies
-              run: composer install --no-interaction --no-suggest
+              run: composer install --no-interaction --no-progress
 
             - name: Check the coding style
-              run:  vendor/bin/ecs check bin public src tests --config ecs.php --no-progress-bar --ansi
+              run:  vendor/bin/ecs check bin public src tests --config ecs.php --no-progress-bar
 
             - name: Analyze the redirects.yaml
               run: bin/yaml-lint redirects.yaml
 
     tests:
-        name: Tests
+        name: Unit tests
         runs-on: ubuntu-latest
         steps:
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
               with:
-                  php-version: 7.4
+                  php-version: 8.1
                   coverage: none
 
             - name: Checkout
-              uses: actions/checkout@v2
+              uses: actions/checkout@vv
 
             - name: Install the dependencies
-              run: composer install --no-interaction --no-suggest
+              run: composer install --no-interaction --no-progress
 
             - name: Run the unit tests
-              run: vendor/bin/phpunit --colors=always
+              run: vendor/bin/phpunit
 
     build_and_deploy:
-        name: Build and Deploy
+        name: Build and deploy
         if: github.ref == 'refs/heads/main'
         runs-on: ubuntu-latest
         needs: [cs, tests]
@@ -59,14 +59,14 @@ jobs:
             - name: Setup PHP
               uses: shivammathur/setup-php@v2
               with:
-                  php-version: 7.4
+                  php-version: 8.1
                   coverage: none
 
             - name: Checkout
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Install the dependencies
-              run: composer install -o --no-dev --no-interaction --no-suggest
+              run: composer install -o --no-dev --no-interaction --no-progress
 
             - name: Dump routes
               run: bin/dump-routes

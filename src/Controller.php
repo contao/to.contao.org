@@ -17,24 +17,20 @@ use Symfony\Component\Routing\Matcher\RequestMatcherInterface;
 
 class Controller
 {
-    private RequestMatcherInterface $urlMatcher;
-
-    public function __construct(RequestMatcherInterface $urlMatcher)
+    public function __construct(private readonly RequestMatcherInterface $urlMatcher)
     {
-        $this->urlMatcher = $urlMatcher;
     }
 
     public function __invoke(Request $request): Response
     {
         try {
             $match = $this->urlMatcher->matchRequest($request);
-
             $url = $this->determineTargetUrl($request, $match['targets']);
 
             $response = new RedirectResponse($url, Response::HTTP_TEMPORARY_REDIRECT);
             $response->setPublic();
             $response->setMaxAge(86400); // cache for a day
-        } catch (\Exception $e) {
+        } catch (\Exception) {
             $response = new Response('Not Found', Response::HTTP_NOT_FOUND);
         }
 
