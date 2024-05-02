@@ -61,7 +61,7 @@ class ControllerTest extends TestCase
         $this->assertSame($expectedTargetUrl, $response->headers->get('Location'));
     }
 
-    public function existingShortLinkProvider(): \Generator
+    public static function existingShortLinkProvider(): iterable
     {
         yield 'Test correct match if only one target is configured' => [
             Request::create('/contao'),

@@ -13,7 +13,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Routing\Matcher\CompiledUrlMatcher;
 use Symfony\Component\Routing\RequestContext;
 
-include_once __DIR__.'./../vendor/autoload.php';
+include_once __DIR__.'/../vendor/autoload.php';
 
 $compiledRoutes = @include_once __DIR__.'/../var/dumped_routes.php';
 
@@ -22,9 +22,12 @@ if (false === $compiledRoutes) {
 }
 
 $request = Request::createFromGlobals();
+
 $requestContext = new RequestContext();
 $requestContext->fromRequest($request);
+
 $urlMatcher = new CompiledUrlMatcher($compiledRoutes, $requestContext);
 $controller = new Controller($urlMatcher);
+
 $response = $controller($request);
 $response->send();
