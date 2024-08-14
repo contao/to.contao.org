@@ -242,7 +242,8 @@ changelog/5.0: https://github.com/contao/contao/blob/5.0.10/CHANGELOG.md
 changelog/5.1: https://github.com/contao/contao/blob/5.1.11/CHANGELOG.md
 changelog/5.2: https://github.com/contao/contao/blob/5.2.10/CHANGELOG.md
 changelog/5.3: https://github.com/contao/contao/blob/5.3/CHANGELOG.md
-changelog: https://github.com/contao/contao/blob/5.3/CHANGELOG.md
+changelog/5.4: https://github.com/contao/contao/blob/5.4/CHANGELOG.md
+changelog: https://github.com/contao/contao/blob/5.4/CHANGELOG.md
 
 # Deprecated
 deprecated/4.0: https://github.com/contao/core-bundle/blob/4.0.4/DEPRECATED.md
@@ -263,7 +264,8 @@ deprecated/5.0: https://github.com/contao/contao/blob/5.0.10/DEPRECATED.md
 deprecated/5.1: https://github.com/contao/contao/blob/5.1.11/DEPRECATED.md
 deprecated/5.2: https://github.com/contao/contao/blob/5.2.10/DEPRECATED.md
 deprecated/5.3: https://github.com/contao/contao/blob/5.3/DEPRECATED.md
-deprecated: https://github.com/contao/contao/blob/5.3/DEPRECATED.md
+deprecated/5.4: https://github.com/contao/contao/blob/5.4/DEPRECATED.md
+deprecated: https://github.com/contao/contao/blob/5.4/DEPRECATED.md
 
 # Limitations
 limitations/4.0: https://github.com/contao/core-bundle/blob/4.0.4/LIMITATIONS.md
@@ -284,7 +286,8 @@ limitations/5.0: https://github.com/contao/contao/blob/5.0.10/LIMITATIONS.md
 limitations/5.1: https://github.com/contao/contao/blob/5.1.11/LIMITATIONS.md
 limitations/5.2: https://github.com/contao/contao/blob/5.2.10/LIMITATIONS.md
 limitations/5.3: https://github.com/contao/contao/blob/5.3/LIMITATIONS.md
-limitations: https://github.com/contao/contao/blob/5.3/LIMITATIONS.md
+limitations/5.4: https://github.com/contao/contao/blob/5.4/LIMITATIONS.md
+limitations: https://github.com/contao/contao/blob/5.4/LIMITATIONS.md
 
 # Upgrades
 upgrade/4.0: https://github.com/contao/core-bundle/blob/4.0.4/UPGRADE.md
@@ -305,7 +308,8 @@ upgrade/5.0: https://github.com/contao/contao/blob/5.0.10/UPGRADE.md
 upgrade/5.1: https://github.com/contao/contao/blob/5.1.11/UPGRADE.md
 upgrade/5.2: https://github.com/contao/contao/blob/5.2.10/UPGRADE.md
 upgrade/5.3: https://github.com/contao/contao/blob/5.3/UPGRADE.md
-upgrade: https://github.com/contao/contao/blob/5.3/UPGRADE.md
+upgrade/5.4: https://github.com/contao/contao/blob/5.4/UPGRADE.md
+upgrade: https://github.com/contao/contao/blob/5.4/UPGRADE.md
 
 # Contao Conference
 conference/2008: https://contao.org/de/veranstaltungen/typolight-usertreffen-2008
