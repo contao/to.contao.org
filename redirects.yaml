@@ -210,6 +210,9 @@ versions/5.2:
 versions/5.3:
     en: https://contao.org/en/news/contao-5-3-lts-is-available
     de: https://contao.org/de/news/contao-5-3-lts-ist-da
+versions/5.4:
+    en: https://contao.org/en/news/contao-5-4-an-iconic-release
+    de: https://contao.org/de/news/contao-5-4-ein-iconisches-release
 
 # Changelogs
 changelog/2.6: https://github.com/contao/core/blob/2.6.8/CHANGELOG.txt
