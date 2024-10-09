@@ -379,9 +379,12 @@ developers-meeting/2-2023:
 developers-meeting/1-2024:
     en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2024
     de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2024
+developers-meeting/2-2024:
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2024
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2024
 developers-meeting:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2024
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2024
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2024
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2024
 
 # Other Events
 release-party: https://meet.cms.garden/con-oy9-jcj-m0q
@@ -478,7 +481,8 @@ review/5-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-september
 review/6-2023: https://contao.org/de/news/contao-zwei-monatsrueckblick-november-und-dezember-2023
 review/1-2024: https://contao.org/de/news/contao-drei-monatsrueckblick-januar-bis-maerz-2024
 review/2-2024: https://contao.org/de/news/contao-zwei-monatsrueckblick-april-und-mai-2024
-review: https://contao.org/de/news/contao-zwei-monatsrueckblick-april-und-mai-2024
+review/3-2024: https://contao.org/de/news/contao-drei-monatsrueckblick-juni-bis-august-2024
+review: https://contao.org/de/news/contao-drei-monatsrueckblick-juni-bis-august-2024
 
 # Legacy - to be deleted when enough time has passed
 
