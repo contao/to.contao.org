@@ -333,8 +333,9 @@ conference/2018: https://contao.org/de/veranstaltungen/contao-konferenz-2018
 conference/2019: https://contao.org/de/veranstaltungen/contao-konferenz-2019
 conference/2023: https://contao.org/de/veranstaltungen/contao-konferenz-2023
 conference/2023/videos: https://www.youtube.com/watch?v=tv-lQEsjlq8&list=PLJlEgN85jW8GukbkUAkl5lJoo9CP-VebK
-conference: https://www.contao-konferenz.de/
+conference/2024: https://contao.org/de/veranstaltungen/contao-konferenz-2024
 conference/2024/videos: https://contao-academy.de/videos-contao-konferenz-2024
+conference: https://www.contao-konferenz.de/
 
 # Contao Camp
 camp/2011: https://contao.org/de/veranstaltungen/contao-camp-2011-de
@@ -348,7 +349,7 @@ camp/2019: https://2019.camp.contao.org/
 camp/2022: https://2022.camp.contao.org/
 camp/2023: https://2023.camp.contao.org/
 camp/2024: https://2024.camp.contao.org/
-camp: https://2024.camp.contao.org/
+camp: https://contao.camp/
 
 # Contao Core Developers Meeting
 developers-meeting/1-2018: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2018
