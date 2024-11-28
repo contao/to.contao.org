@@ -440,6 +440,10 @@ docs/markdown:
     en: https://docs.contao.org/manual/en/article-management/content-elements/text-elements/#markdown
     de: https://docs.contao.org/manual/de/artikelverwaltung/inhaltselemente/text-elemente/#markdown
 
+docs/cronjob-framework:
+    en: https://docs.contao.org/manual/en/performance/cronjobs/
+    de: https://docs.contao.org/manual/de/performance/cronjobs/
+
 # Contao Two Month Review
 review/1-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-mai-und-juni-2016
 review/2-2016: https://contao.org/de/news/contao-zwei-monatsrueckblick-juli-und-august-2016
