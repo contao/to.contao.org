@@ -496,12 +496,14 @@ review/1-2024: https://contao.org/de/news/contao-drei-monatsrueckblick-januar-bi
 review/2-2024: https://contao.org/de/news/contao-zwei-monatsrueckblick-april-und-mai-2024
 review/3-2024: https://contao.org/de/news/contao-drei-monatsrueckblick-juni-bis-august-2024
 review/4-2024: https://contao.org/de/news/contao-drei-monatsrueckblick-september-bis-november-2024
-review: https://contao.org/de/news/contao-drei-monatsrueckblick-september-bis-november-2024
+review/5-2024: https://contao.org/de/news/contao-rueckblick-dezember-2024-und-jahresvorschau-2025
+review: https://contao.org/de/news/contao-rueckblick-dezember-2024-und-jahresvorschau-2025
 
 # Wir sind Contao
 wsc/sebastian-zoglowek: https://contao.org/de/news/wir-sind-contao-heute-mit-sebastian-zoglowek
 wsc/katrin-zimmermann: https://contao.org/de/news/wir-sind-contao-heute-mit-katrin-zimmermann
-wsc: https://contao.org/de/news/wir-sind-contao-heute-mit-katrin-zimmermann
+wsc/frank-kaminski: https://contao.org/de/news/wir-sind-contao-heute-mit-frank-kaminski
+wsc: https://contao.org/de/news/wir-sind-contao-heute-mit-frank-kaminski
 
 # Legacy - to be deleted when enough time has passed
 
