@@ -406,6 +406,10 @@ docs/manager-password:
     en: https://docs.contao.org/manual/en/installation/contao-manager/#did-you-forget-your-contao-manager-login-information
     de: https://docs.contao.org/manual/de/installation/contao-manager/#hast-du-die-zugangsdaten-vom-contao-manager-vergessen
 
+docs/manager-users:
+    en: https://docs.contao.org/manual/en/installation/contao-manager/#can-i-add-another-user-account-to-contao-manager
+    de: https://docs.contao.org/manual/de/installation/contao-manager/#kann-ich-dem-contao-manager-ein-weiteres-benutzerkonto-hinzufuegen
+
 docs/shortcuts:
     en: https://docs.contao.org/manual/en/administration-area/back-end-keyboard-shortcuts/
     de: https://docs.contao.org/manual/de/administrationsbereich/backend-tastaturkuerzel/
