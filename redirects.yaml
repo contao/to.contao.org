@@ -227,12 +227,12 @@ versions/5.4:
     de: https://contao.org/de/news/contao-5-4-ein-iconisches-release
 versions/5.4/video: https://youtu.be/REv4fdh9sdg
 versions/5.5:
-    en: https://contao.org/en/news/contao-5-5-new
-    de: https://contao.org/de/news/contao-5-5
+    en: https://contao.org/en/news/contao-5-5-five-back-end-boosters-and-much-more
+    de: https://contao.org/de/news/contao-5-5-fuenf-backend-booster-und-noch-einiges-mehr
 versions/5.5/video: https://youtu.be/4JFRli0WbJE
 versions:
-    en: https://contao.org/en/news/contao-5-5-new
-    de: https://contao.org/de/news/contao-5-5
+    en: https://contao.org/en/news/contao-5-5-five-back-end-boosters-and-much-more
+    de: https://contao.org/de/news/contao-5-5-fuenf-backend-booster-und-noch-einiges-mehr
 versions/video: https://youtu.be/4JFRli0WbJE
 
 # Changelogs
