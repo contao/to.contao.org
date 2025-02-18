@@ -189,36 +189,51 @@ versions/4.8:
 versions/4.9:
     en: https://contao.org/en/news/contao-4_9_0
     de: https://contao.org/de/news/contao_4-9-0
+versions/4.9/video: https://youtu.be/85yj3ezYExI
 versions/4.10:
     en: https://contao.org/en/news/contao-4_10_0
     de: https://contao.org/de/news/contao_4-10-0
+versions/4.10/video: https://youtu.be/cZ2c9Cz1x7I
 versions/4.11:
     en: https://contao.org/en/news/contao-4_11_0
     de: https://contao.org/de/news/contao_4-11-0
+versions/4.11/video: https://youtu.be/resV-1cZZyo
 versions/4.12:
     en: https://contao.org/en/news/contao-4_12_0
     de: https://contao.org/de/news/contao_4-12-0
+versions/4.12/video: https://youtu.be/EYrBgOHDsgk
 versions/4.13:
     en: https://contao.org/en/news/contao-4_13_0
     de: https://contao.org/de/news/contao_4-13-0
+versions/4.13/video: https://youtu.be/OYnY1pJHMa4
 versions/5.0:
     en: https://contao.org/en/news/contao-5-0-is-here
     de: https://contao.org/de/news/contao-5-0-ist-da
+versions/5.0/video: https://youtu.be/4hSKMm53xkw
 versions/5.1:
     en: https://contao.org/en/news/welcome-contao-5-1
     de: https://contao.org/de/news/willkommen-contao-5-1
+versions/5.1/video: https://youtu.be/xH_2XjqM2vc
 versions/5.2:
     en: https://contao.org/en/news/contao-5-2-is-available
     de: https://contao.org/de/news/contao-5-2-ist-verfuegbar
+versions/5.2/video: https://youtu.be/dmHoEw89E3s
 versions/5.3:
     en: https://contao.org/en/news/contao-5-3-lts-is-available
     de: https://contao.org/de/news/contao-5-3-lts-ist-da
+versions/5.3/video: https://youtu.be/T8xIMtQA9Os
 versions/5.4:
     en: https://contao.org/en/news/contao-5-4-an-iconic-release
     de: https://contao.org/de/news/contao-5-4-ein-iconisches-release
+versions/5.4/video: https://youtu.be/REv4fdh9sdg
+versions/5.5:
+    en: https://contao.org/en/news/contao-5-5-new
+    de: https://contao.org/de/news/contao-5-5
+versions/5.5/video: https://youtu.be/4JFRli0WbJE
 versions:
-    en: https://contao.org/en/news/contao-5-4-an-iconic-release
-    de: https://contao.org/de/news/contao-5-4-ein-iconisches-release
+    en: https://contao.org/en/news/contao-5-5-new
+    de: https://contao.org/de/news/contao-5-5
+versions/video: https://youtu.be/4JFRli0WbJE
 
 # Changelogs
 changelog/2.6: https://github.com/contao/core/blob/2.6.8/CHANGELOG.txt
@@ -251,8 +266,9 @@ changelog/5.0: https://github.com/contao/contao/blob/5.0.10/CHANGELOG.md
 changelog/5.1: https://github.com/contao/contao/blob/5.1.11/CHANGELOG.md
 changelog/5.2: https://github.com/contao/contao/blob/5.2.10/CHANGELOG.md
 changelog/5.3: https://github.com/contao/contao/blob/5.3/CHANGELOG.md
-changelog/5.4: https://github.com/contao/contao/blob/5.4/CHANGELOG.md
-changelog: https://github.com/contao/contao/blob/5.4/CHANGELOG.md
+changelog/5.4: https://github.com/contao/contao/blob/5.4.14/CHANGELOG.md
+changelog/5.5: https://github.com/contao/contao/blob/5.5/CHANGELOG.md
+changelog: https://github.com/contao/contao/blob/5.5/CHANGELOG.md
 
 # Deprecated
 deprecated/4.0: https://github.com/contao/core-bundle/blob/4.0.4/DEPRECATED.md
@@ -274,7 +290,8 @@ deprecated/5.1: https://github.com/contao/contao/blob/5.1.11/DEPRECATED.md
 deprecated/5.2: https://github.com/contao/contao/blob/5.2.10/DEPRECATED.md
 deprecated/5.3: https://github.com/contao/contao/blob/5.3/DEPRECATED.md
 deprecated/5.4: https://github.com/contao/contao/blob/5.4/DEPRECATED.md
-deprecated: https://github.com/contao/contao/blob/5.4/DEPRECATED.md
+deprecated/5.5: https://github.com/contao/contao/blob/5.5/DEPRECATED.md
+deprecated: https://github.com/contao/contao/blob/5.5/DEPRECATED.md
 
 # Limitations
 limitations/4.0: https://github.com/contao/core-bundle/blob/4.0.4/LIMITATIONS.md
@@ -296,7 +313,8 @@ limitations/5.1: https://github.com/contao/contao/blob/5.1.11/LIMITATIONS.md
 limitations/5.2: https://github.com/contao/contao/blob/5.2.10/LIMITATIONS.md
 limitations/5.3: https://github.com/contao/contao/blob/5.3/LIMITATIONS.md
 limitations/5.4: https://github.com/contao/contao/blob/5.4/LIMITATIONS.md
-limitations: https://github.com/contao/contao/blob/5.4/LIMITATIONS.md
+limitations/5.5: https://github.com/contao/contao/blob/5.5/LIMITATIONS.md
+limitations: https://github.com/contao/contao/blob/5.5/LIMITATIONS.md
 
 # Upgrades
 upgrade/4.0: https://github.com/contao/core-bundle/blob/4.0.4/UPGRADE.md
@@ -318,7 +336,8 @@ upgrade/5.1: https://github.com/contao/contao/blob/5.1.11/UPGRADE.md
 upgrade/5.2: https://github.com/contao/contao/blob/5.2.10/UPGRADE.md
 upgrade/5.3: https://github.com/contao/contao/blob/5.3/UPGRADE.md
 upgrade/5.4: https://github.com/contao/contao/blob/5.4/UPGRADE.md
-upgrade: https://github.com/contao/contao/blob/5.4/UPGRADE.md
+upgrade/5.5: https://github.com/contao/contao/blob/5.5/UPGRADE.md
+upgrade: https://github.com/contao/contao/blob/5.5/UPGRADE.md
 
 # Contao Conference
 conference/2008: https://contao.org/de/veranstaltungen/typolight-usertreffen-2008
@@ -327,19 +346,34 @@ conference/2010: https://contao.org/de/veranstaltungen/typolight-usertreffen-201
 conference/2011: https://contao.org/de/veranstaltungen/contao-konferenz-2011
 conference/2012: https://contao.org/de/veranstaltungen/contao-konferenz-2012
 conference/2013: https://contao.org/de/veranstaltungen/contao-konferenz-2013
+conference/2013/videos: https://youtu.be/watch?v=5Ld4X2z8Iag&list=PLJlEgN85jW8H1go8hJz8OskiibS0i5gsq
+conference/2013/keynote: https://youtu.be/XGJCkcw3rvg
 conference/2014: https://contao.org/de/veranstaltungen/contao-konferenz-2014
+conference/2014/videos: https://youtu.be/watch?v=qC7MWpBTzWA&list=PLJlEgN85jW8F2lyGzXNHFbBi9ASR204vP
+conference/2014/keynote: https://youtu.be/baCjh5S6Z1E
 conference/2015: https://contao.org/de/veranstaltungen/contao-konferenz-2015
+conference/2015/videos: https://youtu.be/watch?v=tKL5nQxtGEY&list=PLJlEgN85jW8HMj4g3TzlBdVddBTZC7KRv
+conference/2015/keynote: https://youtu.be/tKL5nQxtGEY
 conference/2016: https://contao.org/de/veranstaltungen/contao-konferenz-2016
+conference/2016/videos: https://youtu.be/watch?v=H8MetzhG9zE&list=PLJlEgN85jW8HRv6_zFjg3KduaCdoS7O-j
+conference/2016/keynote: https://youtu.be/H8MetzhG9zE
 conference/2017: https://contao.org/de/veranstaltungen/contao-konferenz-2017
+conference/2017/videos: https://youtu.be/watch?v=UZBwAqmBopY&list=PLJlEgN85jW8FcZogc52-XTLc3GQjDLUMH
+conference/2017/keynote: https://youtu.be/H8MetzhG9zE
 conference/2018: https://contao.org/de/veranstaltungen/contao-konferenz-2018
+conference/2018/videos: https://youtu.be/watch?v=vPs9yBatfpY&list=PLJlEgN85jW8G-eIo3UblM-P606BFlHxUr
+conference/2018/keynote: https://youtu.be/vPs9yBatfpY
 conference/2019: https://contao.org/de/veranstaltungen/contao-konferenz-2019
+conference/2019/videos: https://youtu.be/watch?v=10RwlTDaKTk&list=PLJlEgN85jW8F6Z2764ORFXs9ynz-MouXM
+conference/2019/keynote: https://youtu.be/10RwlTDaKTk
 conference/2023: https://contao.org/de/veranstaltungen/contao-konferenz-2023
-conference/2023/videos: https://www.youtube.com/watch?v=tv-lQEsjlq8&list=PLJlEgN85jW8GukbkUAkl5lJoo9CP-VebK
+conference/2023/videos: https://youtu.be/watch?v=tv-lQEsjlq8&list=PLJlEgN85jW8GukbkUAkl5lJoo9CP-VebK
+conference/2023/keynote: https://youtu.be/DNFw2dBIOpQ
 conference/2024: https://contao.org/de/veranstaltungen/contao-konferenz-2024
 conference/2024/videos: https://contao-academy.de/videos-contao-konferenz-2024
+conference/2024/keynote: https://youtu.be/GiFq4HJWBHw
 conference/2025: https://contao.org/de/veranstaltungen/contao-konferenz-2025
 conference: https://www.contao-konferenz.de/
-conference/2024/keynote: https://youtu.be/GiFq4HJWBHw
 
 # Contao Camp
 camp/2011: https://contao.org/de/veranstaltungen/contao-camp-2011-de
