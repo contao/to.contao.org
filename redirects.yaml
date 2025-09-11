@@ -436,9 +436,12 @@ developers-meeting/2-2024:
 developers-meeting/1-2025:
     en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2025
     de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2025
+developers-meeting/2-2025:
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2025
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2025
 developers-meeting:
-    en: https://contao.org/en/news/recap-of-the-first-contao-core-developers-meeting-2025
-    de: https://contao.org/de/news/rueckblick-auf-das-erste-core-entwicklertreffen-2025
+    en: https://contao.org/en/news/recap-of-the-second-contao-core-developers-meeting-2025
+    de: https://contao.org/de/news/rueckblick-auf-das-zweite-core-entwicklertreffen-2025
 
 # Other Events
 release-party: https://meet.cms.garden/con-oy9-jcj-m0q
