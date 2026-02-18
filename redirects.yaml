@@ -271,7 +271,7 @@ changelog/4.9: https://github.com/contao/contao/blob/4.9.42/CHANGELOG.md
 changelog/4.10: https://github.com/contao/contao/blob/4.10.7/CHANGELOG.md
 changelog/4.11: https://github.com/contao/contao/blob/4.11.9/CHANGELOG.md
 changelog/4.12: https://github.com/contao/contao/blob/4.12.7/CHANGELOG.md
-changelog/4.13: https://github.com/contao/contao/blob/4.13/CHANGELOG.md
+changelog/4.13: https://github.com/contao/contao/blob/4.13.58/CHANGELOG.md
 changelog/5.0: https://github.com/contao/contao/blob/5.0.10/CHANGELOG.md
 changelog/5.1: https://github.com/contao/contao/blob/5.1.11/CHANGELOG.md
 changelog/5.2: https://github.com/contao/contao/blob/5.2.10/CHANGELOG.md
@@ -296,7 +296,7 @@ deprecated/4.9: https://github.com/contao/contao/blob/4.9.42/DEPRECATED.md
 deprecated/4.10: https://github.com/contao/contao/blob/4.10.7/DEPRECATED.md
 deprecated/4.11: https://github.com/contao/contao/blob/4.11.9/DEPRECATED.md
 deprecated/4.12: https://github.com/contao/contao/blob/4.12.7/DEPRECATED.md
-deprecated/4.13: https://github.com/contao/contao/blob/4.13/DEPRECATED.md
+deprecated/4.13: https://github.com/contao/contao/blob/4.13.58/DEPRECATED.md
 deprecated/5.0: https://github.com/contao/contao/blob/5.0.10/DEPRECATED.md
 deprecated/5.1: https://github.com/contao/contao/blob/5.1.11/DEPRECATED.md
 deprecated/5.2: https://github.com/contao/contao/blob/5.2.10/DEPRECATED.md
@@ -321,7 +321,7 @@ limitations/4.9: https://github.com/contao/contao/blob/4.9.42/LIMITATIONS.md
 limitations/4.10: https://github.com/contao/contao/blob/4.10.7/LIMITATIONS.md
 limitations/4.11: https://github.com/contao/contao/blob/4.11.9/LIMITATIONS.md
 limitations/4.12: https://github.com/contao/contao/blob/4.12.7/LIMITATIONS.md
-limitations/4.13: https://github.com/contao/contao/blob/4.13/LIMITATIONS.md
+limitations/4.13: https://github.com/contao/contao/blob/4.13.58/LIMITATIONS.md
 limitations/5.0: https://github.com/contao/contao/blob/5.0.10/LIMITATIONS.md
 limitations/5.1: https://github.com/contao/contao/blob/5.1.11/LIMITATIONS.md
 limitations/5.2: https://github.com/contao/contao/blob/5.2.10/LIMITATIONS.md
@@ -346,7 +346,7 @@ upgrade/4.9: https://github.com/contao/contao/blob/4.9.42/UPGRADE.md
 upgrade/4.10: https://github.com/contao/contao/blob/4.10.7/UPGRADE.md
 upgrade/4.11: https://github.com/contao/contao/blob/4.11.9/UPGRADE.md
 upgrade/4.12: https://github.com/contao/contao/blob/4.12.7/UPGRADE.md
-upgrade/4.13: https://github.com/contao/contao/blob/4.13/UPGRADE.md
+upgrade/4.13: https://github.com/contao/contao/blob/4.13.58/UPGRADE.md
 upgrade/5.0: https://github.com/contao/contao/blob/5.0.10/UPGRADE.md
 upgrade/5.1: https://github.com/contao/contao/blob/5.1.11/UPGRADE.md
 upgrade/5.2: https://github.com/contao/contao/blob/5.2.10/UPGRADE.md
