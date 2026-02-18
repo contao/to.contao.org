@@ -236,10 +236,14 @@ versions/5.6:
     en: https://contao.org/en/news/contao-5-6-0-is-available
     de: https://contao.org/de/news/contao-5-6-veroeffentlicht
 versions/5.6/video: https://youtu.be/8xoH4WRIO6Y
+versions/5.7:
+    en: https://contao.org/en/news/contao-5-7-lts-unlimited-possibilities-with-limited-width
+    de: https://contao.org/de/news/contao-5-7-lts-unbegrenzte-moeglichkeiten-mit-begrenzter-breite
+versions/5.7/video: https://youtu.be/mW2y9D2veCc
 versions:
-    en: https://contao.org/en/news/contao-5-6-0-is-available
-    de: https://contao.org/de/news/contao-5-6-veroeffentlicht
-versions/video: https://youtu.be/8xoH4WRIO6Y
+    en: https://contao.org/en/news/contao-5-7-lts-unlimited-possibilities-with-limited-width
+    de: https://contao.org/de/news/contao-5-7-lts-unbegrenzte-moeglichkeiten-mit-begrenzter-breite
+versions/video: https://youtu.be/mW2y9D2veCc
 
 # Changelogs
 changelog/2.6: https://github.com/contao/core/blob/2.6.8/CHANGELOG.txt
@@ -274,8 +278,9 @@ changelog/5.2: https://github.com/contao/contao/blob/5.2.10/CHANGELOG.md
 changelog/5.3: https://github.com/contao/contao/blob/5.3/CHANGELOG.md
 changelog/5.4: https://github.com/contao/contao/blob/5.4.14/CHANGELOG.md
 changelog/5.5: https://github.com/contao/contao/blob/5.5.16/CHANGELOG.md
-changelog/5.6: https://github.com/contao/contao/blob/5.6/CHANGELOG.md
-changelog: https://github.com/contao/contao/blob/5.6/CHANGELOG.md
+changelog/5.6: https://github.com/contao/contao/blob/5.6.10/CHANGELOG.md
+changelog/5.7: https://github.com/contao/contao/blob/5.7/CHANGELOG.md
+changelog: https://github.com/contao/contao/blob/5.7/CHANGELOG.md
 
 # Deprecated
 deprecated/4.0: https://github.com/contao/core-bundle/blob/4.0.4/DEPRECATED.md
@@ -298,8 +303,9 @@ deprecated/5.2: https://github.com/contao/contao/blob/5.2.10/DEPRECATED.md
 deprecated/5.3: https://github.com/contao/contao/blob/5.3/DEPRECATED.md
 deprecated/5.4: https://github.com/contao/contao/blob/5.4.14/DEPRECATED.md
 deprecated/5.5: https://github.com/contao/contao/blob/5.5.16/DEPRECATED.md
-deprecated/5.6: https://github.com/contao/contao/blob/5.6/DEPRECATED.md
-deprecated: https://github.com/contao/contao/blob/5.6/DEPRECATED.md
+deprecated/5.6: https://github.com/contao/contao/blob/5.6.10/DEPRECATED.md
+deprecated/5.7: https://github.com/contao/contao/blob/5.7/DEPRECATED.md
+deprecated: https://github.com/contao/contao/blob/5.7/DEPRECATED.md
 
 # Limitations
 limitations/4.0: https://github.com/contao/core-bundle/blob/4.0.4/LIMITATIONS.md
@@ -322,8 +328,9 @@ limitations/5.2: https://github.com/contao/contao/blob/5.2.10/LIMITATIONS.md
 limitations/5.3: https://github.com/contao/contao/blob/5.3/LIMITATIONS.md
 limitations/5.4: https://github.com/contao/contao/blob/5.4.14/LIMITATIONS.md
 limitations/5.5: https://github.com/contao/contao/blob/5.5.16/LIMITATIONS.md
-limitations/5.6: https://github.com/contao/contao/blob/5.6/LIMITATIONS.md
-limitations: https://github.com/contao/contao/blob/5.6/LIMITATIONS.md
+limitations/5.6: https://github.com/contao/contao/blob/5.6.10/LIMITATIONS.md
+limitations/5.7: https://github.com/contao/contao/blob/5.7/LIMITATIONS.md
+limitations: https://github.com/contao/contao/blob/5.7/LIMITATIONS.md
 
 # Upgrades
 upgrade/4.0: https://github.com/contao/core-bundle/blob/4.0.4/UPGRADE.md
@@ -346,8 +353,9 @@ upgrade/5.2: https://github.com/contao/contao/blob/5.2.10/UPGRADE.md
 upgrade/5.3: https://github.com/contao/contao/blob/5.3/UPGRADE.md
 upgrade/5.4: https://github.com/contao/contao/blob/5.4.14/UPGRADE.md
 upgrade/5.5: https://github.com/contao/contao/blob/5.5.16/UPGRADE.md
-upgrade/5.6: https://github.com/contao/contao/blob/5.6/UPGRADE.md
-upgrade: https://github.com/contao/contao/blob/5.6/UPGRADE.md
+upgrade/5.6: https://github.com/contao/contao/blob/5.6.10/UPGRADE.md
+upgrade/5.7: https://github.com/contao/contao/blob/5.7/UPGRADE.md
+upgrade: https://github.com/contao/contao/blob/5.7/UPGRADE.md
 
 # Contao Conference
 conference/2008: https://contao.org/de/veranstaltungen/typolight-usertreffen-2008
