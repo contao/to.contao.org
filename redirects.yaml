@@ -26,6 +26,11 @@ manual:
     en: https://docs.contao.org/manual/en/
     de: https://docs.contao.org/manual/de/
 
+# Used by the Contao Manager
+install-failed:
+    en: https://docs.contao.org/5.x/manual/en/installation/contao-manager-error/
+    de: https://docs.contao.org/5.x/manual/de/installation/contao-manager-error/
+
 team:
     en: https://contao.org/en/team
     de: https://contao.org/de/team
