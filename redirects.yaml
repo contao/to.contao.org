@@ -278,7 +278,7 @@ changelog/5.2: https://github.com/contao/contao/blob/5.2.10/CHANGELOG.md
 changelog/5.3: https://github.com/contao/contao/blob/5.3/CHANGELOG.md
 changelog/5.4: https://github.com/contao/contao/blob/5.4.14/CHANGELOG.md
 changelog/5.5: https://github.com/contao/contao/blob/5.5.16/CHANGELOG.md
-changelog/5.6: https://github.com/contao/contao/blob/5.6.10/CHANGELOG.md
+changelog/5.6: https://github.com/contao/contao/blob/5.6.11/CHANGELOG.md
 changelog/5.7: https://github.com/contao/contao/blob/5.7/CHANGELOG.md
 changelog: https://github.com/contao/contao/blob/5.7/CHANGELOG.md
 
@@ -303,7 +303,7 @@ deprecated/5.2: https://github.com/contao/contao/blob/5.2.10/DEPRECATED.md
 deprecated/5.3: https://github.com/contao/contao/blob/5.3/DEPRECATED.md
 deprecated/5.4: https://github.com/contao/contao/blob/5.4.14/DEPRECATED.md
 deprecated/5.5: https://github.com/contao/contao/blob/5.5.16/DEPRECATED.md
-deprecated/5.6: https://github.com/contao/contao/blob/5.6.10/DEPRECATED.md
+deprecated/5.6: https://github.com/contao/contao/blob/5.6.11/DEPRECATED.md
 deprecated/5.7: https://github.com/contao/contao/blob/5.7/DEPRECATED.md
 deprecated: https://github.com/contao/contao/blob/5.7/DEPRECATED.md
 
@@ -328,7 +328,7 @@ limitations/5.2: https://github.com/contao/contao/blob/5.2.10/LIMITATIONS.md
 limitations/5.3: https://github.com/contao/contao/blob/5.3/LIMITATIONS.md
 limitations/5.4: https://github.com/contao/contao/blob/5.4.14/LIMITATIONS.md
 limitations/5.5: https://github.com/contao/contao/blob/5.5.16/LIMITATIONS.md
-limitations/5.6: https://github.com/contao/contao/blob/5.6.10/LIMITATIONS.md
+limitations/5.6: https://github.com/contao/contao/blob/5.6.11/LIMITATIONS.md
 limitations/5.7: https://github.com/contao/contao/blob/5.7/LIMITATIONS.md
 limitations: https://github.com/contao/contao/blob/5.7/LIMITATIONS.md
 
@@ -353,7 +353,7 @@ upgrade/5.2: https://github.com/contao/contao/blob/5.2.10/UPGRADE.md
 upgrade/5.3: https://github.com/contao/contao/blob/5.3/UPGRADE.md
 upgrade/5.4: https://github.com/contao/contao/blob/5.4.14/UPGRADE.md
 upgrade/5.5: https://github.com/contao/contao/blob/5.5.16/UPGRADE.md
-upgrade/5.6: https://github.com/contao/contao/blob/5.6.10/UPGRADE.md
+upgrade/5.6: https://github.com/contao/contao/blob/5.6.11/UPGRADE.md
 upgrade/5.7: https://github.com/contao/contao/blob/5.7/UPGRADE.md
 upgrade: https://github.com/contao/contao/blob/5.7/UPGRADE.md
 
