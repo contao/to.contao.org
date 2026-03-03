@@ -398,7 +398,10 @@ conference/2024/keynote: https://youtu.be/GiFq4HJWBHw
 conference/2025: https://contao.org/de/veranstaltungen/contao-konferenz-2025
 conference/2025/keynote: https://youtu.be/nvIPd3OzXhs
 conference/2025/videos: https://contao-academy.de/videos-contao-konferenz-2025
-conference: https://www.contao-konferenz.de/
+conference: https://www.contao-summit.de/
+
+# Contao Conference has become Contao Summit
+summit: https://www.contao-summit.de/
 
 # Contao Camp
 camp/2011: https://contao.org/de/veranstaltungen/contao-camp-2011-de
