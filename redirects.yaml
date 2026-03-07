@@ -166,6 +166,42 @@ tv/shorts/20: https://youtube.com/shorts/azo7BES3PK8
 tv/shorts/21: https://youtube.com/shorts/fcIP8b7Ifpk
 
 # Contao announcements
+versions/2.6:
+    en: https://contao.org/en/news/typolight-2_6_0
+    de: https://contao.org/de/news/typolight_2-6-0
+versions/2.7:
+    en: https://contao.org/en/news/typolight-2_7_0
+    de: https://contao.org/de/news/typolight_2-7-0
+versions/2.8:
+    en: https://contao.org/en/news/typolight-2_8_0
+    de: https://contao.org/de/news/typolight_2-8-0
+versions/2.9:
+    en: https://contao.org/en/news/contao-2_9_0
+    de: https://contao.org/de/news/contao_2-9-0
+versions/2.10:
+    en: https://contao.org/en/news/contao-2_10_0
+    de: https://contao.org/de/news/contao_2-10-0
+versions/2.11:
+    en: https://contao.org/en/news/contao-2_11_0
+    de: https://contao.org/de/news/contao_2-11-0
+versions/3.0:
+    en: https://contao.org/en/news/contao-3_0_0
+    de: https://contao.org/de/news/contao_3-0-0
+versions/3.1:
+    en: https://contao.org/en/news/contao-3_1_0
+    de: https://contao.org/de/news/contao_3-1-0
+versions/3.2:
+    en: https://contao.org/en/news/contao-3_2_0
+    de: https://contao.org/de/news/contao_3-2-0
+versions/3.3:
+    en: https://contao.org/en/news/contao-3_3_0
+    de: https://contao.org/de/news/contao_3-3-0
+versions/3.4:
+    en: https://contao.org/en/news/contao-3_4_0
+    de: https://contao.org/de/news/contao_3-4-0
+versions/3.5:
+    en: https://contao.org/en/news/contao-3_5_0
+    de: https://contao.org/de/news/contao_3-5-0
 versions/4.0:
     en: https://contao.org/en/news/contao-4_0_0
     de: https://contao.org/de/news/contao_4-0-0
