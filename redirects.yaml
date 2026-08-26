@@ -281,10 +281,14 @@ versions/5.7:
     en: https://contao.org/en/news/contao-5-7-lts-unlimited-possibilities-with-limited-width
     de: https://contao.org/de/news/contao-5-7-lts-unbegrenzte-moeglichkeiten-mit-begrenzter-breite
 versions/5.7/video: https://youtu.be/mW2y9D2veCc
+versions/6.0:
+    en: https://contao.org/en/news/contao-6-0-0-is-available
+    de: https://contao.org/de/news/contao-6-0-veroeffentlicht
+versions/6.0/video: https://youtu.be/7_66j0vl4hI
 versions:
-    en: https://contao.org/en/news/contao-5-7-lts-unlimited-possibilities-with-limited-width
-    de: https://contao.org/de/news/contao-5-7-lts-unbegrenzte-moeglichkeiten-mit-begrenzter-breite
-versions/video: https://youtu.be/mW2y9D2veCc
+    en: https://contao.org/en/news/contao-6-0-0-is-available
+    de: https://contao.org/de/news/contao-6-0-veroeffentlicht
+versions/video: https://youtu.be/7_66j0vl4hI
 
 # Changelogs
 changelog/2.6: https://github.com/contao/core/blob/2.6.8/CHANGELOG.txt
