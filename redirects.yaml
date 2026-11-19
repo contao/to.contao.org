@@ -441,7 +441,10 @@ conference/2024/videos: https://youtu.be/GiFq4HJWBHw?list=PLJlEgN85jW8ExxBFEUokY
 conference/2024/keynote: https://youtu.be/GiFq4HJWBHw
 conference/2025: https://contao.org/de/veranstaltungen/contao-konferenz-2025
 conference/2025/keynote: https://youtu.be/nvIPd3OzXhs
-conference/2025/videos: https://contao-academy.de/videos-contao-konferenz-2025
+conference/2025/videos: https://youtube.com/playlist?list=PLJlEgN85jW8Fcosk5DZL-0V_cybUfWvdx
+conference/2026: https://www.contao-summit.de/
+conference/2026/keynote: https://youtu.be/W-QNXVfcBjI
+conference/2026/videos: https://contao-academy.de/videos-contao-summit-2026
 conference: https://www.contao-summit.de/
 
 # Contao Conference has become Contao Summit
